@@ -27,7 +27,7 @@ In general the coding consists of the following steps
 15. Print the metrics classification report `metrics.classification_report`
  
 For the SMOTE oversampling, Undersampling, and Combination sampling, steps 9-15 are repeated with changes to functions where applicable.
-
+For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the data with 100 estimators, and fit the model, and follow the steps 
 ## 3.0 Results
 
 ![image](https://user-images.githubusercontent.com/85843030/137648423-aa792756-bb6c-4cd6-ae27-55e351e2d406.png)
