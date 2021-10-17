@@ -10,11 +10,11 @@ Jupyter notebook 6.3.0
 
 ## 3.0 Coding Steps
 In general the coding consists of the following steps
-- 1. Importing libraries for for Numpy and Panda functions,
-- 2. Importing libraries from sklearn, imblearn
-- 3. Read in data from the csv data
-- 4. Convert the columns to binary data
-* 5. Drop the target column `loan_status`
+1. Importing libraries for for Numpy and Panda functions,
+2. Importing libraries from sklearn, imblearn
+3. Read in data from the csv data
+4. Convert the columns to binary data
+5. Drop the target column `loan_status`
 * 6. Assign remaining columns to X as `feature`
 * 7. Split the data into training and testing data 
 * 8. Oversampling- `RandomOverSampler`
