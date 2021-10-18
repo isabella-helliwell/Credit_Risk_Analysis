@@ -106,3 +106,14 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ![image](https://user-images.githubusercontent.com/85843030/137652181-a6056e10-b52b-4697-a9fa-6f67f0eaeae9.png)
 
+<ins>Observations Summary-Ensample Classifiers</ins>
+1. Lowest balanced accuracy score is 79% for Blanced Random Forest Classifier
+2. Highest balance accurace score is 93% for the Easy Ensemble Classifier
+3. Highest sensitivity score `rec` is 92% for Easy Ensemble Classifier
+4. Highest precision score `pre` is 0.09 for Easy Ensemble Classifier
+5. Highest f1-score is 0.16 for the Easy Ensemble Classifier
+
+
+
+
+
