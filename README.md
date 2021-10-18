@@ -3,6 +3,7 @@
 ## 1.0 Project Overview
 The aim of this project is to use `LoanStats_2019Q1.csv` data to evaluate 3 machine learning models by using resampling to determine which is model
 is better for predicting credit risk.
+Next a comparison is made for two new machine learning models that reduce bias, to predict credit risk.
 
 ## 2.0 Resources
 Python 3.7.10
