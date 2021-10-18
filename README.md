@@ -68,6 +68,20 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ![image](https://user-images.githubusercontent.com/85843030/137651568-f7e44c5b-2135-4ed3-ab98-128c800c7e0d.png)
 
+
+<ins>Observations Balanced Random Forest Classifier:</ins>
+1. Total samples used: 17205
+2. Out of 101 samples, 71 were predicted correctly to be high risk loans, 30 were False Negative (high risk loan but they are not)
+3. 2153 were predicted correctly to be low risk loans, False Positive
+4. 14951 were predicted incorrectly to be low risk loans, hence True Negative
+
+
+<ins>Observations EasyEnsemble Classifier:</ins>
+1. Total samples used: 17205
+2. Out of 101 samples, 93 were predicted correctly to be high risk loans, 8 were False Negative (high risk loan but they are not)
+3. 983 were predicted correctly to be low risk loans, False Positive
+4. 16121 were predicted incorrectly to be low risk loans, hence True Negative
+
 ## 4.0 Summary
 
 ### 4.1 Summary-Sampling
