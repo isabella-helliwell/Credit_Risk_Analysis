@@ -29,7 +29,13 @@ In general the coding consists of the following steps
 For the SMOTE oversampling, Undersampling, and Combination sampling, steps 9-15 are repeated with changes to functions where applicable.
 For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the data with 100 estimators, and fit the model, and follow the steps 
 ## 3.0 Results
+### 3.1 Results-Sampling
 
 ![image](https://user-images.githubusercontent.com/85843030/137648423-aa792756-bb6c-4cd6-ae27-55e351e2d406.png)
+
+
+### 3.2 Results-Ensemble Classifiers
+
+![image](https://user-images.githubusercontent.com/85843030/137651568-f7e44c5b-2135-4ed3-ab98-128c800c7e0d.png)
 
 
