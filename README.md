@@ -35,9 +35,17 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 <ins>Observations Naive Random Oversampling:</ins>
 1. Total samples used: 17205
-2. Out of 101 samples, 71 was predicted correctly to be high risk loans, 30 were False Negative (high risk loan but they are not)
+2. Out of 101 samples, 71 were predicted correctly to be high risk loans, 30 were False Negative (high risk loan but they are not)
 3. 6334 were predicted correctly to be low risk loans, False Positive
 4. 10770 were predicted incorrectly to be low risk loans, hence True Negative
+
+
+<ins>Observations SMOTE Oversampling:</ins>
+1. Total samples used: 17205
+2. Out of 101 samples, 64 were predicted correctly to be high risk loans and
+   37 were predicted wrongly to be high risk loans,hence False Negative
+3. 5286 were predicted correctly to be low risk loans, False Positive
+4. 11818 were predicted incorrectly to be low risk loans, hence True Negative
 
 
 ### 3.2 Results-Ensemble Classifiers
