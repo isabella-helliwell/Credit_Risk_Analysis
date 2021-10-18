@@ -48,6 +48,22 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 4. 11818 were predicted incorrectly to be low risk loans, hence True Negative
 
 
+<ins>Observations Cluster Centroids Undersampling:</ins>
+1. Total samples used: 17205
+2. Out of 101 samples, 70 were predicted correctly to be high risk loans, 31 were False Negative (high risk loan but they are not)
+3. 10324 were predicted correctly to be low risk loans, False Positive
+4. 6780 were predicted incorrectly to be low risk loans, hence True Negative
+
+
+<ins>Observations Combination Sampling:</ins>
+1. Total samples used: 17205
+2. Out of 101 samples, 78 were predicted correctly to be high risk loans, 23 were False Negative (high risk loan but they are not)
+3. 7187 were predicted correctly to be low risk loans, False Positive
+4. 9917 were predicted incorrectly to be low risk loans, hence True Negative
+
+
+
+
 ### 3.2 Results-Ensemble Classifiers
 
 ![image](https://user-images.githubusercontent.com/85843030/137651568-f7e44c5b-2135-4ed3-ab98-128c800c7e0d.png)
