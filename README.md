@@ -121,7 +121,12 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ## Conclusion
 Looking at the parametres for measuring the performance of the classification models,overall best performance model is the Ensample Classifier.
-However, looking at the confusion matrix, there is a high number of good loans that are predicted to be bad, 14951. The accuracy is (71+14951)/(17205)=0.87
-Comparing this with the balanced accuracy score:[(71/(71+30))+(14951/2153+14951))]/2 = 0.79
+However, looking at the confusion matrix, there is a high number of good loans that are predicted to be bad, 14951. The accuracy is (93+16121)/(17205)=0.94
+Comparing this with the balanced accuracy score:[(93/(93+8))+(16121/983+16121))]/2 = 0.93, which means that the test has got the same number of samples in
+each class. 
+The Easy Ensemble Classifier provided the best predictions for identifying true high risk loans, however it also predicts most low risk applications as 
+high risk.
+<b></ins>Therefore, non of the models is good for this prediction.<ins></b>
+
 
 
