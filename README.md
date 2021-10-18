@@ -69,6 +69,7 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ![image](https://user-images.githubusercontent.com/85843030/137651568-f7e44c5b-2135-4ed3-ab98-128c800c7e0d.png)
 
+![image](https://user-images.githubusercontent.com/85843030/137652181-a6056e10-b52b-4697-a9fa-6f67f0eaeae9.png)
 
 <ins>Observations Balanced Random Forest Classifier:</ins>
 1. Total samples used: 17205
@@ -104,7 +105,8 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ### 4.2 Summary-Ensemble Classifiers
 
-![image](https://user-images.githubusercontent.com/85843030/137652181-a6056e10-b52b-4697-a9fa-6f67f0eaeae9.png)
+![image](https://user-images.githubusercontent.com/85843030/137790264-d82b6e2c-f5f6-4a09-8303-f1183c2e10c8.png)
+
 
 <ins>Observations Summary-Ensample Classifiers</ins>
 1. Lowest balanced accuracy score is 79% for Blanced Random Forest Classifier
