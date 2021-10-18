@@ -128,5 +128,10 @@ The Easy Ensemble Classifier provided the best predictions for identifying true 
 high risk.
 <b></ins>Therefore, non of the models is good for this prediction.<ins></b>
 
+## Further Analysis
+As the above models are all falsly predicting high number of low risk loans as high risk, further analysis is required, some of those could be:
+- use a standard scaler
+- data can be split in different proportions
+- use additional methods such as gradient boosting
 
 
