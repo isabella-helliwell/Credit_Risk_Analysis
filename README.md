@@ -105,7 +105,8 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ### 4.2 Summary-Ensemble Classifiers
 
-![image](https://user-images.githubusercontent.com/85843030/137790478-dd211d71-57e8-418d-b6eb-8a2afd573838.png)
+
+![image](https://user-images.githubusercontent.com/85843030/137800315-67eed4bf-dacc-41cb-9aa7-4ad0c546c119.png)
 
 
 
