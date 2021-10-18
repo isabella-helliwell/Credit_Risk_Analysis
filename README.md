@@ -88,16 +88,16 @@ For the Ensemble Algorithms, use `BalanceRandomForestClassifier` to resample the
 
 ### 4.1 Summary-Sampling
 
-![image](https://user-images.githubusercontent.com/85843030/137652237-1d74d41e-a61f-4e5b-90cc-515601210660.png)
+![image](https://user-images.githubusercontent.com/85843030/137801034-0e788834-45c1-4550-a2a8-1e9e5e79eae8.png)
 
 <ins>Observations Summary-Sampling</ins>
 1. Lowest balanced accuracy score is 54% using Under Sampling
 2. Highest balanced accuracy score is 68% using Combination Sampling
-3. All models have 0.01 precision
-4.  The highest Sensitivity score is 77% for combination Sampling
-5.  The lowest Sensitivity score is 63% for the SMOTE-Oversampling
-6.  Highest f1-score is 0.012 for the SMOTE Oversampling
-7.  The lowest f1-score is for the Cluster Centroid Undersampling
+3. All models have 1% precision
+4. The highest Sensitivity score is 77% for combination Sampling
+5. The lowest Sensitivity score is 63% for the SMOTE-Oversampling
+6. Highest f1-score is 2.3% for the SMOTE Oversampling
+7. The lowest f1-score is 1.3% for the Cluster Centroid Undersampling
 
 
 
